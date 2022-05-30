@@ -8,3 +8,5 @@ To install requirements run
 For run tests
 
 `pytest -m test_complex_numbers.py`
+
+This is simple solution usng magic methods. 
