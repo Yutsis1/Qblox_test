@@ -92,4 +92,7 @@ class ComplexNumber:
         """
         return str(self.as_tuple)
 
+    def __int__(self):
+        return int(self.real_part)
+
 
